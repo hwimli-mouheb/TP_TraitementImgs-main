@@ -41,30 +41,3 @@ A graphical tool for image processing.
 ### Contrast and Brightness
 ![Contrast and Brightness](screenshots/contrast_brightess.gif)
 
-### Blurring using Gaussian, Median and Average Blur
-![Blurring](screenshots/blurring.gif)
-
-### Erosion & Dilation using as structuring elements : Rectangle, Ellipse and Cross
-![Erosion & Dilation](screenshots/erosion_dilation.gif)
-
-### Threshodling
-![Threshodling](screenshots/thresholding.gif)
-
-### Segmentation using k-Means
-![Segmentation](screenshots/segmentation.gif)
-
-### Edge detection
-#### Canny detector
-![Canny detector](screenshots/canny_detector.gif)
-#### Sobel detector
-![Sobel detector](screenshots/sobel_detector.gif)
-
-### Face detection using Haar feature-based cascade classifiers
-#### Human face and eyes detection
-![Human face and eyes detection](screenshots/face_eyes_detection.png)
-#### Cat face detection
-![Cat face detection](screenshots/cat_face_detection.png)
-
-### People detection using HOG classifier
-![People detection](screenshots/pedestrians_detection.gif)
-
